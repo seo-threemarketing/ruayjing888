@@ -1,7 +1,7 @@
 {
   "name": "ruayjing888",
   "theme": "ruayjing888",
-  "version": "29.11.0",
+  "version": "0.0.0",
   "description": "ruayjing888 สล็อตเว็บตรง รับเครดิตฟรี ฝากtrue wallet เข้าสู่ระบบไม่ต้องโยกเงิน",
   "keywords": [
     "ruayjing888",
@@ -11,7 +11,7 @@
     "ruayjing888 สล็อต",
     "ruayjing888 wallet"
   ],
-  "repository": "https://github.com/seo-threemarketing/ruayjing888",
+  "repository": "https://atom.io/packages/ruayjing888",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
